@@ -1,4 +1,4 @@
-const parole = ["Manuemme", "javascript", "hello", "world"];
+const parole = ["manuemme", "javascript", "hello", "world"];
 
 let letteraA = document.getElementById("a");
 let letteraB = document.getElementById("b");
